@@ -1,4 +1,4 @@
-# Twitter-sentimental-analysis-RNN
+# sentimental-analysis-RNN-LSTM
 
 ## Sentiment Analysis with Recurrent Neural Network - LSTM
 
